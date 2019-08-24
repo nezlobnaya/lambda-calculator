@@ -7,7 +7,7 @@ const Numbers = ({ setDisplay, display }) => {
   const [setNumbers] = useState(numbers);
 
   return (
-    <div className="numbers-container">
+    <div className="app-numbers">
       { setNumbers.map((num, index) => { 
         return index !== 9 
         ?

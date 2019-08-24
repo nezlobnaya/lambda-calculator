@@ -7,7 +7,7 @@ const Operators = ({ setDisplay, display }) => {
   const [setOperators] = useState(operators)
 
   return (
-    <div className='operators-container'>
+    <div className='app-operators'>
        {setOperators.map((operator, index) => {
           return <OperatorButton key={ index } symbol={ operator.char } value={ operator.value } setDisplay={setDisplay} display={display} />
        })}
