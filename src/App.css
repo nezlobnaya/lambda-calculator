@@ -333,7 +333,10 @@
     }
 
     .app-numbers {
-      height: 170px;
+      height: 190px;
+    }
+    .main-container {
+      height: 63vh;
     }
   }
 
