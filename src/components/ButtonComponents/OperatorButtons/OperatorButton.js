@@ -7,6 +7,7 @@ const OperatorButton = ({ setDisplay, value, symbol, display }) => {
   }
 
   function handleCalculation() {
+    // eslint-disable-next-line
     if (value === '=') return setDisplay(eval(display));
   }
 

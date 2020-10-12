@@ -218,8 +218,7 @@
     }
     .container {
       width: 65%;
-      height: 60vh; 
-     
+      margin-top: 0;
     }
 
     .main-container {
@@ -245,4 +244,8 @@
       font-size: 1.5rem;
     }
 
+    .logo {
+      width: 25%;
+      padding: 1rem 2rem 1rem;
+    }
   }

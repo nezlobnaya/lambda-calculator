@@ -18,15 +18,7 @@ function App() {
   const [display, setDisplay] = useState('');
 
   // Require and style the background image
-  const backgroundStyle = {
-    display: 'flex',
-    justifyContent: 'center',
-    alignItems: 'center',
-    width: '100%',
-    height: '100vh',
-    backgroundSize: 'cover',
-    margin: '0 auto',
-  };
+
 
   return (
       <div className="container">
