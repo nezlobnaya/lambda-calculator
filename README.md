@@ -1,6 +1,6 @@
 # Module Project: React-UI-Components - Lambda Calculator
 
-### You can see the demo [HERE](https://online-calculator-1.netlify.app/)
+### You can see the demo [HERE](https://calculator-by-vlad.netlify.app/)
 
 In this module project you will build your very own calculator app. You have been provided with a file structure and suggested pattern for constructing your components. Be sure to connect all necessary files and pass the data using the techniques from the module.
 
