@@ -294,7 +294,7 @@
 
   }
 
-  @media screen and (max-width: 318px) {
+  @media screen and (max-width: 375px) {
     .container {
       width: 65%;
       margin-top: 0.6rem;
@@ -302,21 +302,21 @@
 
     .number-button {
       margin: 5px 8px 5px;
-      width: 25px;
-      height: 25px;
-      font-size: 0.8rem;
+      width: 28px;
+      height: 28px;
+      font-size: 0.9rem;
     }
 
     .operator-button {
       width: 25px;
-      height: 20px;
+      height: 25px;
       font-size: 0.8rem;
     }
 
     .special-button {
-      width: 25px;
-      height: 25px;
-      font-size: 0.8rem;
+      width: 30px;
+      height: 30px;
+      font-size: 1rem;
     }
 
     .displayDigit {
@@ -328,11 +328,13 @@
 
     .main-container {
       width: 99%;
-      height: 80vh;
+      height: 50vh;
       border-radius: 20px;
     }
 
     .app-numbers {
-      height: 100px;
+      height: 170px;
     }
   }
+
+  
