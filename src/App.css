@@ -249,3 +249,47 @@
       padding: 1rem 2rem 1rem;
     }
   }
+
+  @media screen and (max-width: 375px) {
+    .container {
+      width: 65%;
+      margin-top: 1rem;
+    }
+
+    .number-button {
+      margin: 7px 10px;
+      width: 30px;
+      height: 30px;
+      font-size: 1rem;
+  
+    }
+
+    .operator-button {
+      width: 30px;
+      height: 30px;
+      font-size: 1rem;
+    }
+
+    .special-button {
+      width: 30px;
+      height: 30px;
+      font-size: 1rem;
+    }
+
+    .displayDigit {
+      margin-right: 1rem;
+      color: rgb(255, 255, 255);
+      font-size: 1.1rem;
+      font-weight: 400;
+    }
+
+    .main-container {
+      width: 99%;
+      height: 49.5vh;
+      background-color: rgb(192, 38, 10);
+      border: 2px solid rgb(158, 159, 160);
+      margin: 0 auto;
+      border-radius: 20px;
+    }
+
+  }
