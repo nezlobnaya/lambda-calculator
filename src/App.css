@@ -301,9 +301,9 @@
     }
 
     .number-button {
-      margin: 5px 8px 5px;
-      width: 30px;
-      height: 30px;
+      margin: 10px 10px 10px 6px;
+      width: 35px;
+      height: 35px;
       font-size: 1rem;
     }
 
