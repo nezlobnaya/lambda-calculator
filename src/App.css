@@ -297,7 +297,7 @@
   @media screen and (max-width: 320px) {
     .container {
       width: 65%;
-      margin-top: 1rem;
+      margin-top: 0.6rem;
     }
 
     .number-button {
@@ -309,7 +309,7 @@
 
     .operator-button {
       width: 25px;
-      height: 25px;
+      height: 20px;
       font-size: 0.8rem;
     }
 
@@ -328,14 +328,11 @@
 
     .main-container {
       width: 99%;
-      height: 62vh;
-      background-color: rgb(192, 38, 10);
-      border: 2px solid rgb(158, 159, 160);
-      margin: 0 auto;
+      height: 70vh;
       border-radius: 20px;
     }
 
     .app-numbers {
-      height: 190px;
+      height: 100px;
     }
   }
